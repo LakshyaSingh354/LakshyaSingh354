@@ -3,14 +3,14 @@
 
 <p align="left"> <a href="https://twitter.com/lakshya0503" target="blank"><img src="https://img.shields.io/twitter/follow/lakshya0503?logo=twitter&style=for-the-badge" alt="lakshya0503" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://twitter.com/lakshya0503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lakshya0503" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lakshya-singh-354l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshya-singh-354l" height="30" width="40" /></a>
 <a href="https://kaggle.com/lakshyasingh354" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="lakshyasingh354" height="30" width="40" /></a>
 </p>
 
-<p align="left">You'll see me most often working with:</p>
+<h4 align="left">You'll see me most often working with:</h4>
 
 ###
 
@@ -39,15 +39,24 @@
 </div>
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LakshyaSingh354/LakshyaSingh354/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LakshyaSingh354/LakshyaSingh354/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LakshyaSingh354/LakshyaSingh354/output/github-contribution-grid-snake.svg">
-</picture>
-
+<!--- 
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=lakshya.singh354&theme=midnight-purple" alt="Layout with last medium posts"  />
+</div>
+!--->
+<h4> About Me:</h4>
+🚀 I am currently working on [](https://github.com/LakshyaSingh354)<br>
+🛸 I am currently learning about Deep Neural Networks.<br>
+🌌 I'm a huge astronomy buff.<br>
+🔖 I'm a huge bookworm. Always eager to talk more about books.<br>
+<h4>Github Stats:</h4>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshyasingh354&theme=midnight-purple&hide_rank=true&show_icons=true&locale=en&layout=compact" alt="lakshyasingh354" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lakshyasingh354&theme=midnight-purple&hide_rank=true&show_icons=true&locale=en" alt="lakshyasingh354" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshyasingh354&theme=midnight-purple&" alt="lakshyasingh354" /></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LakshyaSingh354/LakshyaSingh354/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LakshyaSingh354/LakshyaSingh354/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LakshyaSingh354/LakshyaSingh354/output/github-contribution-grid-snake.svg">
+</picture>
