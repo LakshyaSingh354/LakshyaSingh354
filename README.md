@@ -40,6 +40,8 @@
 
 ###
 
+<img alt="snake eating my contributions" src="https://github.com/LakshyaSingh354/LakshyaSingh354/blob/output/github-contribution-grid-snake-dark.svg" />
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshyasingh354&theme=midnight-purple&hide_rank=true&show_icons=true&locale=en&layout=compact" alt="lakshyasingh354" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lakshyasingh354&theme=midnight-purple&hide_rank=true&show_icons=true&locale=en" alt="lakshyasingh354" /></p>
