@@ -8,6 +8,8 @@
 <a href="https://twitter.com/lakshya0503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lakshya0503" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lakshya-singh-354l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshya-singh-354l" height="30" width="40" /></a>
 <a href="https://kaggle.com/lakshyasingh354" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="lakshyasingh354" height="30" width="40" /></a>
+<a href="mailto:lakshya.singh354@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="lakshyasingh354" height="30" width="40" /></a>
+
 </p>
 
 <h4 align="left">You'll see me most often working with:</h4>
@@ -45,10 +47,22 @@
 </div>
 !--->
 <h4> About Me:</h4>
-🚀 I am currently working on [](https://github.com/LakshyaSingh354)<br>
-🛸 I am currently learning about Deep Neural Networks.<br>
+<div>
+ 
+🚀 I am currently working on [](https://github.com/LakshyaSingh354)
+
+🛸 I am currently learning about Deep Neural Networks.
+
 🌌 I'm a huge astronomy buff.<br>
-🔖 I'm a huge bookworm. Always eager to talk more about books.<br>
+
+🔖 I'm also a huge bookworm. Always eager to talk more about books.
+
+⚡ Fun fact **A day on Venus is longer than a year on Venus.**
+
+<!---<h3 align="left">I am currently reading:</h3>
+<a href="https://www.goodreads.com/user/show/149789414-lakshya-singh"><img src="https://goodreads-readme.vercel.app/api/book?id=149789414" alt="GoodReads reading" width="350" /></a>
+--->
+ </div>
 <h4>Github Stats:</h4>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshyasingh354&theme=midnight-purple&hide_rank=true&show_icons=true&locale=en&layout=compact" alt="lakshyasingh354" /></p>
 
