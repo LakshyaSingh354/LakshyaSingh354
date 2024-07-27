@@ -18,11 +18,11 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   <img width="12" />
@@ -50,15 +50,12 @@
 <h4> About Me:</h4>
 <div>
  
-🚀 I am currently working on [](https://github.com/LakshyaSingh354)
+🚀 I am currently working on [Manga Colourisation](https://github.com/LakshyaSingh354/Manga-Colouring)
 
-🛸 I am currently learning about Deep Neural Networks.
+🛸 I am currently learning about Reinforcement Learning.
 
-🌌 I'm a huge astronomy buff.<br>
+🌌 I'm a huge astronomy buff and a huge bookworm.<br>
 
-🔖 I'm also a huge bookworm. Always eager to talk more about books.
-
-⚡ Fun fact **A day on Venus is longer than a year on Venus.**
 
 <!---<h3 align="left">I am currently reading:</h3>
 <a href="https://www.goodreads.com/user/show/149789414-lakshya-singh"><img src="https://goodreads-readme.vercel.app/api/book?id=149789414" alt="GoodReads reading" width="350" /></a>
