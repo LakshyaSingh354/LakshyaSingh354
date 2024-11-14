@@ -50,7 +50,7 @@
 <h4> About Me:</h4>
 <div>
  
-🚀 I am currently working on [Manga Colourisation](https://github.com/LakshyaSingh354/Manga-Colouring)
+🚀 I am currently working on [CNN library in C++](https://github.com/LakshyaSingh354/CppNN)
 
 🛸 I am currently learning about Reinforcement Learning.
 
