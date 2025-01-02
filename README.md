@@ -50,7 +50,7 @@
 <h4> About Me:</h4>
 <div>
  
-🚀 I am currently working on [Financial Aspect Based Sentiment Analysis](https://github.com/LakshyaSingh354/FABSA)
+🚀 I am currently working on [Financial Fraud Detection](https://github.com/LakshyaSingh354/Financial-Fraud-Detection)
 
 🛸 I am currently learning about Reinforcement Learning.
 
