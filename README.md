@@ -52,7 +52,7 @@
  
 🚀 I am currently working on [Financial Fraud Detection](https://github.com/LakshyaSingh354/Financial-Fraud-Detection)
 
-🛸 I am currently learning about Reinforcement Learning.
+🛸 I am currently learning about CUDA.
 
 🌌 I'm a huge astronomy buff and a huge bookworm.<br>
 
@@ -62,11 +62,10 @@
 --->
  </div>
 <h4>Github Stats:</h4>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshyasingh354&theme=midnight-purple&hide_rank=true&show_icons=true&locale=en&layout=compact" alt="lakshyasingh354" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lakshyasingh354&theme=midnight-purple&hide_rank=true&show_icons=true&locale=en" alt="lakshyasingh354" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshyasingh354&theme=midnight-purple&" alt="lakshyasingh354" /></p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LakshyaSingh354/LakshyaSingh354/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LakshyaSingh354/LakshyaSingh354/output/github-contribution-grid-snake.svg">
