@@ -50,9 +50,9 @@
 <h4> About Me:</h4>
 <div>
  
-🚀 I am currently working on [Financial Fraud Detection](https://github.com/LakshyaSingh354/Financial-Fraud-Detection)
+🚀 I am currently working on [Strata](https://github.com/LakshyaSingh354/Financial-Fraud-Detection), an advanced memory infrastructure for LLM agents.
 
-🛸 I am currently learning about CUDA.
+🛸 I am currently learning about CUDA and inference optimizations.
 
 🌌 I'm a huge astronomy buff and a huge bookworm.<br>
 
