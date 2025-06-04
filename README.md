@@ -50,7 +50,7 @@
 <h4> About Me:</h4>
 <div>
  
-🚀 I am currently working on [Strata](https://github.com/LakshyaSingh354/Strata), an advanced memory infrastructure for LLM agents.
+🚀 I am currently working on [Mnemo](https://github.com/LakshyaSingh354/Mnemo), an advanced memory infrastructure for LLM agents.
 
 🛸 I am currently learning about CUDA and inference optimizations.
 
