@@ -6,7 +6,7 @@
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
-<a href="https://twitter.com/lakshya0503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lakshya0503" height="30" width="40" /></a>
+<a href="https://x.com/lakshya0503" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/X_icon_2.svg/1483px-X_icon_2.svg.png" alt="lakshya0503" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lakshya-singh-354l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshya-singh-354l" height="30" width="40" /></a>
 <a href="https://kaggle.com/lakshyasingh354" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="lakshyasingh354" height="30" width="40" /></a>
 <a href="mailto:lakshya.singh354@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="lakshyasingh354" height="30" width="40" /></a>
