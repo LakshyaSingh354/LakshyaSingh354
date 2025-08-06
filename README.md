@@ -50,7 +50,7 @@
 <h4> About Me:</h4>
 <div>
  
-🚀 I am currently working on [Inferno]([https://github.com/LakshyaSingh354/Mnemo](https://github.com/LakshyaSingh354/Inferno)), a lighweight model compiler with custom CUDA Kernels to eliminate framework bloatware and overhead.
+🚀 I am currently working on [Inferno](https://github.com/LakshyaSingh354/Inferno), a lighweight model compiler with custom CUDA Kernels to eliminate framework bloatware and overhead.
 🛸 I am currently learning about CUDA and inference optimizations.
 
 🌌 I'm a huge astronomy buff and a huge bookworm.<br>
