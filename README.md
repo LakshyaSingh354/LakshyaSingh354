@@ -1,5 +1,5 @@
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=9407F7&weight=100&center=true&random=false&width=435&lines=&lines=Hey+There!+%F0%9F%91%8B;I'm+Lakshya+Singh!](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=2000&pause=1000&color=9407F7&center=true&vCenter=true&random=false&width=435&lines=Hey+There!+%F0%9F%91%8B;I'm+Lakshya+Singh!"></p>
-<h3 align="center">A passionate  AI Practitioner</h3>
+<h3 align="center">A passionate Systems Engineer</h3>
 <p align="center"><img src="/hello_there.gif"></p>
 
 <p align="left"> <a href="https://twitter.com/lakshya0503" target="blank"><img src="https://img.shields.io/twitter/follow/lakshya0503?logo=twitter&style=for-the-badge" alt="lakshya0503" /></a> </p>
